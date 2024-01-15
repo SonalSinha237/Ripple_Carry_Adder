@@ -1,4 +1,4 @@
-# Ripple_Carry_Adder
+# Ripple Carry Adder
 
 A Ripple Carry Adder (RCA) is a basic digital circuit used to add binary numbers. 
 
